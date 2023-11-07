@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/aleja/Documents/MAESTRIA/proyectos/matematicas_computacionales/Caesar’s_encryption",
-      "program": "c:/Users/aleja/Documents/MAESTRIA/proyectos/matematicas_computacionales/Caesar’s_encryption/build/Debug/outDebug",
+      "cwd": "c:/Users/aleja/Documents/MAESTRIA/proyectos/matematicas_computacionales/Caesar_encryption",
+      "program": "c:/Users/aleja/Documents/MAESTRIA/proyectos/matematicas_computacionales/Caesar_encryption/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

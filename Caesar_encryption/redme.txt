@@ -1,0 +1,21 @@
+para poder encriptar y desencriptar archivos debes tenerlos en formato txt y escrito con mayusculas 
+para leer el archivo entra al codigo en donde dice archivo=open() ahi meteras la ruta del archivo 
+despues mandaras a llamar la funcion desencriptar o encriptar que le pasaras por parametro el archivo 
+la llave con la que deseas encriptar o desencriptar el archivo este te generara un archivo nuevo 
+con tu mensaje encriptado o desencriptado 
+
+requisitos tener instalado python
+
+para correr el programa solo necesitas el comando
+
+py cesar.py
+
+o 
+
+python3 cesar.py
+
+o 
+
+python cesar.py
+
+se anexan ejemplos de mensajes encriptados y desencriptados
