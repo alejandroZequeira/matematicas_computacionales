@@ -1,0 +1,9 @@
+py what_is_prime.py <la posicion del numero primo que deseas saber>
+
+o 
+
+python3 what_is_prime.py <la posicion del numero primo que deseas saber>
+
+o 
+
+python what_is_prime.py <la posicion del numero primo que deseas saber>
